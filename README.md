@@ -4,7 +4,7 @@ Hi 👋 My name is Thushar S Pawar
 Student
 -------
 
-Undergraduate student in computer science
+Graduate Looking for an opportunity to kick start career
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [thushar280@gmail.com](mailto:thushar280@gmail.com)
