@@ -1,7 +1,7 @@
 Hi 👋 My name is Thushar S Pawar
 ================================
 
-Student
+Data Engineer
 -------
 
 Graduate Looking for an opportunity to kick start career
